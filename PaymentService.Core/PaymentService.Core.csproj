@@ -8,6 +8,9 @@
     <Folder Include="Entity\" />
     <Folder Include="Dtos\" />
     <Folder Include="Utility\" />
+    <Folder Include="Services\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Repository\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.3">
